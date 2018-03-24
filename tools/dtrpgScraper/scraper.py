@@ -2,6 +2,9 @@ import requests, os, io
 from bs4 import BeautifulSoup
 from shutil import move
 
+gameList = []    
+gameList2 = []    
+
 def getUrl():
     return 'http://www.drivethrurpg.com/browse/pub/44/Wizards-of-the-Coast?filters=0_0_0_44294_0'
 
@@ -20,14 +23,15 @@ def makeSoup(url):
 def Backup():
 	if os.path.isfile(getCurrentFile()):
 		move(getCurrentFile(), getBackupFile())
-	
+
 def processData(url, count):
     soup = makeSoup(url)
     #with open(getCurrentFile(), 'a', encoding="utf-8") as f:
     with io.open(getCurrentFile(), "a", encoding="utf-8-sig") as f:
         [f.write(x['title']+'\n') for x in soup.find('table', class_='productListing').find_all('a', title=True)[3:]]
+        [ gameList.append(x['title'])  for x in soup.find('table', class_='productListing').find_all('a', title=True)[3:]]
     getNextPage(soup, count)
-
+      
 def getData(fileName):
     with io.open( fileName, 'r' ) as inputFile:
         return [line.rstrip('\n').encode('utf-8') for line in inputFile]
@@ -48,3 +52,22 @@ def getNextPage(soup, count):
 
 Backup()        
 processData(getUrl(), 1)
+
+for game in gameList:
+    # GAME :  book
+    #make more clever if want to get the stuff that has no parenthetical system references
+    #but mostly for D&D purposes
+    if '(' in str(game):
+        myList = game.split('(')
+        gameFamily = myList[1]
+        strFamily = str.replace(gameFamily,')','')
+        myList[1] = strFamily
+        gameList2.append([myList[1],myList[0]])
+
+g = open("gamelist.txt", "w")
+gameList2.sort()
+for game2 in gameList2:
+    g.write(str(game2[0]) + " : " + str(game2[1]) + "\n" )
+
+g.close()
+

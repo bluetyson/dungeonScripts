@@ -1,0 +1,161 @@
+0e : Swords & Spells 
+1e : A0-A4: Against the Slave Lords 
+1e : A1 Slave Pits of the Undercity 
+1e : A2 Secret of the Slavers Stockade 
+1e : A3 Assault on the Aerie of the Slave Lords 
+1e : A4 In the Dungeons of the Slave Lords 
+1e : C1 The Hidden Shrine of Tamoachan 
+1e : C2 The Ghost Tower of Inverness 
+1e : City System 
+1e : D2 Shrine of the Kuo-Toa 
+1e : DL13 Dragons of Truth 
+1e : DL15 Mists of Krynn 
+1e : DL6 Dragons of Ice 
+1e : DL8 Dragons of War 
+1e : Dragonlance Adventures 
+1e : Dungeon Master's Guide 
+1e : EX1 Dungeonland 
+1e : FR6 Dreams of the Red Wizards 
+1e : G2 The Glacial Rift of the Frost Giant Jarl 
+1e : G3 Hall of the Fire Giant King 
+1e : H2 The Mines of Bloodstone 
+1e : H4 The Throne of Bloodstone 
+1e : I10: Ravenloft II: The House on Gryphon Hill 
+1e : I6 Ravenloft 
+1e : I9 Day of Al'Akbar 
+1e : L1 The Secret of Bone Hill 
+1e : Monster Manual 
+1e : Players Handbook 
+1e : S1 Tomb of Horrors 
+1e : S1-4: Dungeons of Dread 
+1e : S2 White Plume Mountain 
+1e : The World of Greyhawk 
+1e : WG5: Mordenkainen's Fantastic Adventure 
+1e/2e : FR7: Hall of Heroes 
+2e : ALQ3 A Dozen and One Adventures 
+2e : Adam's Wrath 
+2e : Beyond the Prism Pentad 
+2e : Blood Enemies: Abominations of Cerilia 
+2e : Calimport 
+2e : Castle Spulzeer 
+2e : Castles Forlorn 
+2e : Children of the Night: Vampires 
+2e : City Sites 
+2e : Country Sites 
+2e : Cult of the Dragon 
+2e : DLA1 Dragon Dawn 
+2e : DLA2: Dragon Knight 
+2e : DLA3 Dragon's Rest 
+2e : DLC2: Dragonlance Classics Volume II 
+2e : DLC3: Dragonlance Classics Volume III 
+2e : DLE1 In Search of Dragons 
+2e : DLE2 Dragon Magic 
+2e : DLE3 Dragon Keep 
+2e : DLR1 Otherlands 
+2e : DLS1 New Beginnings 
+2e : DMGR8: Sages & Specialists 
+2e : Death Ascendant 
+2e : Den of Thieves 
+2e : Elminster's Ecologies 
+2e : Eye of the Wyvern 
+2e : FMA2: Endless Armies 
+2e : FOR4 The Code of the Harpers 
+2e : FR8 Cities of Mystery 
+2e : For Duty & Deity 
+2e : Forest Maker 
+2e : Four From Cormyr 
+2e : Hellgate Keep 
+2e : How the Mighty Are Fallen 
+2e : In the Cage: A Guide to Sigil 
+2e : Jakandor, Land of Legend 
+2e : LC2: Inside Ravens Bluff, The Living City 
+2e : LC4: Port of Ravens Bluff, The Living City 
+2e : Marco Volo: Arrival 
+2e : Marco Volo: Departure 
+2e : Marco Volo: Journey 
+2e : More Leaves from the Inn of the Last Home 
+2e : On Hallowed Ground 
+2e : Planes of Chaos 
+2e : Prayers from the Faithful 
+2e : RM4 House of Strahd 
+2e : Ravenloft Domains of Dread 
+2e : Ruins of Undermountain II: The Deep Levels 
+2e : SJS1 Goblin's Return 
+2e : Temple, Tower & Tomb 
+2e : The City of Greyhawk 
+2e : The Deva Spark 
+2e : The Gothic Earth Gazetteer 
+2e : The Nightmare Lands 
+2e : The Ruins of Myth Drannor 
+2e : The Scarlet Brotherhood 
+2e : The Silver Key 
+2e : Uncaged: Faces of Sigil 
+2e : Undermountain: Stardock 
+2e : Villains' Lorebook 
+2e : Volo's Guide to Baldur's Gate II 
+2e : Well of Worlds [Planescape] 
+2e : When Black Roses Bloom 
+2e : Wrath of the Minotaur 
+2e/SAGA : Rise of the Titans 
+2nd Edition : Up Front AFV Cards 
+2nd Edition : Up Front Action Cards 
+2nd Edition : Up Front Counter Sheets 
+2nd Edition : Up Front Errata Action Cards 
+2nd Edition : Up Front Infantry Personality Cards 
+2nd Edition : Up Front Infantry Personality Errata/Optional Cards 
+3.5 : Age of Mortals 
+3.5 : An Adventurer's Guide to Eberron 
+3.5 : Draconomicon: The Book of Dragons 
+3.5 : Fantastic Locations: Fane of the Drow 
+3.5 : Fantastic Locations: Fields of Ruin 
+3.5 : Fantastic Locations: Hellspike Prison 
+3.5 : Ravenloft Player's Handbook 
+3.5 : Spell Compendium 
+3e : Champions of Darkness 
+3e : Denizens of Darkness 
+3e : Secrets of the Dread Realms 
+4.0 : Wizards Presents: Races and Classes 
+4e : Adventurer's Vault 
+4e : Beyond the Crystal Cave 
+4e : Dark Sun Campaign Setting 
+4e : Draconomicon I: Chromatic Dragons 
+4e : Dungeon Master's Guide 
+4e : Eberron Player's Guide 
+4e : Forgotten Realms Player's Guide 
+4e : Hammerfast: A Dwarven Outpost Adventure Site 
+4e : Neverwinter Campaign Setting 
+4e : Revenge of the Giants 
+4e : Underdark 
+5e : Elemental Evil Player’s Companion 
+Basic : AC1 The Shady Dragon Inn 
+Basic : AC11 The Book of Wondrous Inventions 
+Basic : Assault on Raven's Ruin 
+Basic : B1 In Search of the Unknown 
+Basic : B2 The Keep on the Borderlands 
+Basic : CM3 Sabre River 
+Basic : CM7 The Tree of Life 
+Basic : D&D Rules Cyclopedia 
+Basic : DMR2 Creature Catalog 
+Basic : GAZ14: The Atruaghin Clans 
+Basic : GAZ6 The Dwarves of Rockhome 
+Basic : HWA3 Hollow World: Nightstorm 
+Basic : Hollow World Campaign Setting 
+Basic : M1 Into the Maelstrom 
+Basic : M2/MSOLO2 Maze of the Riddling Minotaur 
+Basic : M4 Five Coins For A Kingdom 
+Basic : O2 Blade of Vengeance 
+Basic : X2 Castle Amber 
+Basic : X8: Drums on Fire Mountain 
+D&D Next : Dreams of the Red Wizards: Scourge of the Sword Coast 
+D&D Next : Vault of the Dracolich 
+GW7e : D&D Gamma World RPG 
+GW7e : D&D Gamma World RPG Booster Cards 
+SAGA : Heroes Of Defiance 
+SAGA : Heroes Of Hope 
+SAGA : Heroes Of Sorcery 
+SAGA : Wings Of Fury 
+SF3 Sundown on Starmist : Star Frontiers: 
+SF4 Mission to Alcazzar : Star Frontiers: 
+SFAC3 Zebulon's Guide to Frontier Space : Star Frontiers: 
+SFKH1 Dramune Run : Star Frontiers: 
+SFKH2 Mutiny on the Eleanor Moraes : Star Frontiers: 
